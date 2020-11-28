@@ -36,7 +36,7 @@ print(Personel.counter)
 personel2 = Personel("berk","torun",1449)
 print(Personel.counter)
 personel3 = Personel("eren","dalk",549)
-personel4 = Personel("cevat","sikidusmez",561)
+personel4 = Personel("cevat","sari",561)
 Personeller = [personel1, personel2, personel3,personel4]
 maxMaas=-1
 index=-1
