@@ -93,7 +93,7 @@ while (y<len(listeli)):
     f+=1
 print("listedeki en kucuk deger {} sayısıdır.".format(enkucuk))
 
-#teeerrrtemiz çok kral yaptım beee
+
      
      
      
